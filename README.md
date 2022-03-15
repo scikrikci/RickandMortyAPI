@@ -9,9 +9,7 @@
 
 ## Components included:
 
-- [x] [Character Schema](https://rickandmortyapi.com/documentation/#character-schema)
-- [x] [Location Schema](https://rickandmortyapi.com/documentation/#location-schema)
-- [x] [Episode Schema](https://rickandmortyapi.com/documentation/#episode-schema)
+- [x] [Character Schema](https://rickandmortyapi.com/documentation/#character-schema) - [x] [Location Schema](https://rickandmortyapi.com/documentation/#location-schema) - [x] [Episode Schema](https://rickandmortyapi.com/documentation/#episode-schema)
 
 
 <p align="center">
