@@ -5,16 +5,12 @@
   </a>
 </p>
 
-
-
-## Components included:
-
 - [x] [Character Schema](https://rickandmortyapi.com/documentation/#character-schema) - [x] [Location Schema](https://rickandmortyapi.com/documentation/#location-schema) - [x] [Episode Schema](https://rickandmortyapi.com/documentation/#episode-schema)
 
 
 <p align="center">
   <a href="https://rickandmortyapi.com/">
-    <img alt="Logo" src="https://www.nicepng.com/png/full/6-61830_rick-and-morty-rick-face-png.png" width="300">
+    <img alt="Logo" src="https://www.nicepng.com/png/full/6-61830_rick-and-morty-rick-face-png.png" width="300" font-size=1rem>
   </a>
   <a href="https://rickandmortyapi.com/">
     <img alt="Logo" src="https://i.pinimg.com/originals/52/6f/5a/526f5ac05b614362625eceb34a2b869f.png" width="300">
