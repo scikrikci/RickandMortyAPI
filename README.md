@@ -9,6 +9,9 @@
 - [x] [Location Schema](https://rickandmortyapi.com/documentation/#location-schema)
 - [x] [Episode Schema](https://rickandmortyapi.com/documentation/#episode-schema)
 
+# Description
+When you run the Python script, the region names will appear and when you type the region name you have chosen, it will show the names of all the characters there according to the region.
+
 <!--
 <p align="center">
   <a href="https://rickandmortyapi.com/">
@@ -18,3 +21,5 @@
     <img alt="Logo" src="https://i.pinimg.com/originals/52/6f/5a/526f5ac05b614362625eceb34a2b869f.png" width="120">
   </a>
 </p>
+
+
