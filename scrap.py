@@ -11,13 +11,11 @@ print(response.status_code)
 
 def location():
     location = response.json()["locations"] #'location'
-    #jprint(location)
 
     req = requests.get(location)
     print(req.status_code)
 
     results = req.json()
-    #jprint(results)
 
     page_count = results["info"]["pages"]
 
@@ -25,17 +23,15 @@ def location():
         page_url = f"https://rickandmortyapi.com/api/location?page={page + 1}"
         req = requests.get(page_url)
         for data in req.json()["results"]:
-            jprint(data["name"])
+            data["name"]
 #---------------------------------------------------------------------------#
 def character(name_input):
     location = response.json()["characters"] #'location'
-    #jprint(location)
 
     req = requests.get(location)
     print(req.status_code)
 
     results = req.json()
-    #jprint(results)
 
     page_count = results["info"]["pages"]
 
@@ -46,7 +42,6 @@ def character(name_input):
 
             if name_input.lower() in char["location"]["name"].lower():
                 jprint(char["name"])
-                jprint(char["location"]["name"])
 
 
 
