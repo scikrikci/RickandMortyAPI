@@ -1,1 +1,1 @@
-# RickandMortyAPI
+# RickandMortyAPI Scraper
