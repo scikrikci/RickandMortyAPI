@@ -23,7 +23,7 @@ def location():
         page_url = f"https://rickandmortyapi.com/api/location?page={page + 1}"
         req = requests.get(page_url)
         for data in req.json()["results"]:
-            data["name"]
+            jprint(data["name"])
 #---------------------------------------------------------------------------#
 def character(name_input):
     location = response.json()["characters"] #'location'
