@@ -9,6 +9,7 @@
 - [x] [Location Schema](https://rickandmortyapi.com/documentation/#location-schema)
 - [x] [Episode Schema](https://rickandmortyapi.com/documentation/#episode-schema)
 
+<!--
 <p align="center">
   <a href="https://rickandmortyapi.com/">
     <img alt="Logo" src="https://www.nicepng.com/png/full/6-61830_rick-and-morty-rick-face-png.png" width="150">
