@@ -6,7 +6,9 @@
 </p>
 
 <p align="center"> 
-  [Character Schema](https://rickandmortyapi.com/documentation/#character-schema)   [Location Schema](https://rickandmortyapi.com/documentation/#location-schema)      [Episode Schema](https://rickandmortyapi.com/documentation/#episode-schema)
+  <a href="https://rickandmortyapi.com/documentation/#character-schema">Character Schema</a>
+  <a href="https://rickandmortyapi.com/documentation/#location-schema">Location Schema</a>
+  <a href="https://rickandmortyapi.com/documentation/#episode-schema">Episode Schema</a>
 </p>
 
 <p align="center">
